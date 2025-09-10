@@ -11,8 +11,11 @@ from tools.diagnostico_diferencial import diagnostico_probable
 from tools.web_search import tavily_search
 
 load_dotenv()
+<<<<<<< HEAD
 print("OPENAI_API_KEY:", os.getenv("OPENAI_API_KEY"))
 print("TAVILY_API_KEY:", os.getenv("TAVILY_API_KEY"))
+=======
+>>>>>>> 3900313df3b5e3120dea498921d5fbad6d2430f4
 
 # Configuración de página
 st.set_page_config(page_title="🧠 Asistente Clínico Avanzado", layout="wide")
