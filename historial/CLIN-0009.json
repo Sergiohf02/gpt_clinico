@@ -1,0 +1,9 @@
+{
+    "id": "CLIN-0009",
+    "nombre": "Paula",
+    "edad": 21,
+    "peso": 55.0,
+    "sexo": "Femenino",
+    "consulta": "Quiero recibir información acerca de los robots quirúrgicos Mako y Da Vinci. ¿Cuándo se suelen emplear?",
+    "respuesta_agente": "Los robots quirúrgicos Mako y Da Vinci se utilizan en procedimientos de cirugía mínimamente invasiva. El sistema Da Vinci se utiliza en cirugías de incisión única o por orificio natural y ha sido ampliamente utilizado en múltiples campos de la cirugía, incluyendo la cirugía maxilofacial. El robot quirúrgico Mako se utiliza específicamente en cirugías ortopédicas, como los reemplazos parciales y totales de rodilla y los reemplazos totales de cadera."
+}

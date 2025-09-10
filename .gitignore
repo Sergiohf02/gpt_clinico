@@ -1,0 +1,14 @@
+# entornos virtuales
+venv/
+.env
+
+# cachés de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# configuraciones locales
+*.DS_Store
+*.log
+gpt_clinico_clean/

@@ -1,0 +1,9 @@
+{
+    "id": "CLIN-0003",
+    "nombre": "Dani",
+    "edad": 17,
+    "peso": 60.0,
+    "sexo": "Masculino",
+    "consulta": "Paciente con fiebre de 38.5, saturación de oxígeno del 88%, presión 92, FC 120 y FR 28. Dame su NEWS2\n",
+    "respuesta_agente": "El puntaje NEWS2 del paciente Dani es de 11, lo que indica un nivel de riesgo ALTO. Se recomienda una evaluación clínica urgente por un equipo de atención de emergencia o cuidados intensivos."
+}

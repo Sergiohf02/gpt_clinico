@@ -1,0 +1,9 @@
+{
+    "id": "CLIN-0007",
+    "nombre": "Daniel",
+    "edad": 47,
+    "peso": 58.98,
+    "sexo": "Masculino",
+    "consulta": "Paciente adulto con frecuencia respiratoria 28, SatO2 90%, temperatura 39°C, FC 112, presión arterial 92 mmHg. ¿Cuál es el nivel de riesgo y qué podría estar ocurriendo?\n",
+    "respuesta_agente": "El paciente está en un nivel de riesgo alto y podría estar sufriendo de neumonía, sepsis, insuficiencia cardíaca aguda o embolia pulmonar. Se recomienda que el paciente sea trasladado a cuidados intensivos para una evaluación más completa y un monitoreo constante. Se deben realizar más pruebas para confirmar el diagnóstico y se deben iniciar tratamientos empíricos según las sospechas."
+}

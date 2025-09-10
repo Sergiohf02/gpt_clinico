@@ -1,0 +1,9 @@
+{
+    "id": "CLIN-0008",
+    "nombre": "Diego",
+    "edad": 26,
+    "peso": 90.0,
+    "sexo": "Masculino",
+    "consulta": "Paciente masculino de 26 años con disnea y dolor torácico desde hace 2 días. Fiebre de 38.9°C, SatO2 92%. Genera una nota SOAP.\n",
+    "respuesta_agente": "NOTA MÉDICA TIPO SOAP\n\nSUBJETIVO:\nEl paciente Diego, de 26 años de edad, refiere disnea y dolor torácico.\n\nOBJETIVO:\nDiego presenta una temperatura de 38.9°C y una saturación de oxígeno del 92%. Su peso es de 90.0 kg. Se le clasifica con un nivel de riesgo alto.\n\nANÁLISIS:\nEl paciente presenta síntomas de disnea y dolor torácico, acompañados de fiebre y una saturación de oxígeno ligeramente baja. Estos signos y síntomas pueden indicar una posible infección respiratoria. El nivel de riesgo alto sugiere la necesidad de una intervención médica inmediata.\n\nPLAN:\nSe recomienda realizar pruebas adicionales para confirmar el diagnóstico, incluyendo un hemograma completo, radiografía de tórax y cultivo de esputo. Se sugiere iniciar tratamiento sintomático con antipiréticos para controlar la fiebre y oxigenoterapia para mejorar la saturación de oxígeno. Se debe realizar un seguimiento cercano de la evolución del paciente y ajustar el tratamiento según sea necesario."
+}
