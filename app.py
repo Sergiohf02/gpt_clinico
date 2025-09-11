@@ -9,6 +9,9 @@ from tools.triage_level import evaluar_news2
 from tools.razonamiento_clinico import razonamiento_soap
 from tools.diagnostico_diferencial import diagnostico_probable
 from tools.web_search import tavily_search
+import os
+os.environ["STREAMLIT_WATCHDOG"] = "false"
+
 
 load_dotenv()
 print("OPENAI_API_KEY:", os.getenv("OPENAI_API_KEY"))
