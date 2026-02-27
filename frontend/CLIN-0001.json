@@ -1,0 +1,9 @@
+{
+    "id": "CLIN-0001",
+    "nombre": "Paciente X",
+    "edad": 35,
+    "peso": 70.0,
+    "sexo": "Masculino",
+    "consulta": "tengo diarre, dame mi soap\n",
+    "respuesta_agente": "El paciente presenta diarrea de causa aún no determinada. Se solicitarán análisis de laboratorio, incluyendo un hemograma completo, pruebas de función renal y hepática, y un análisis de heces para descartar la presencia de parásitos o bacterias patógenas. Se aconseja al paciente mantenerse hidratado y evitar alimentos que puedan agravar los síntomas. Se programará una cita de seguimiento en una semana para revisar los resultados de los análisis y evaluar la respuesta al tratamiento sintomático. Dependiendo de los resultados, se puede considerar la derivación a un gastroenterólogo para una evaluación más detallada."
+}

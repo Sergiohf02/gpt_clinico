@@ -1,0 +1,9 @@
+{
+    "id": "",
+    "nombre": "",
+    "edad": 0,
+    "peso": 70.0,
+    "sexo": "Masculino",
+    "consulta": "que es un robot Mako\n",
+    "respuesta_agente": "El robot Mako es una tecnología de precisión ortopédica utilizada para realizar procedimientos de reemplazo de rodilla y cadera. Proporciona a los cirujanos un modelo 3D específico del paciente para pre-planificar la cirugía, permitiendo una mayor precisión y conservación del hueso."
+}

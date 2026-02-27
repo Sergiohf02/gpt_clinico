@@ -1,0 +1,9 @@
+{
+    "id": "CLIN-0005",
+    "nombre": "Sergio",
+    "edad": 24,
+    "peso": 70.0,
+    "sexo": "Masculino",
+    "consulta": "Paciente de 22 años con fiebre alta, tos productiva y dificultad respiratoria.\n",
+    "respuesta_agente": "El paciente Sergio de 24 años puede estar sufriendo de una neumonía bacteriana, pero también debemos considerar otros diagnósticos diferenciales como la tuberculosis pulmonar, la influenza, COVID-19 y la bronquitis aguda. Debe ser evaluado de inmediato por un médico y se deben realizar pruebas adicionales para confirmar el diagnóstico. Mientras tanto, se puede iniciar un tratamiento empírico con antibióticos, antipiréticos, reposo, líquidos y posiblemente oxígeno suplementario."
+}

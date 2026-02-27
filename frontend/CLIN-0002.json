@@ -1,0 +1,9 @@
+{
+    "id": "CLIN-0002",
+    "nombre": "X",
+    "edad": 4,
+    "peso": 20.0,
+    "sexo": "Masculino",
+    "consulta": "\n\"Niño de 4 años, 15kg. ¿Qué dosis de salbutamol inhalado se recomienda?\"\n",
+    "respuesta_agente": "La dosis exacta de salbutamol inhalado para un niño de 4 años y 15 kg de peso es de 100 a 200 mcg (microgramos) por dosis, que corresponde a 1-2 inhalaciones de un inhalador dosificado estándar. Se puede administrar cada 4 a 6 horas según sea necesario para controlar los síntomas del asma. No se debe exceder de 800 mcg (8 inhalaciones) en 24 horas. Es importante que el salbutamol inhalado sea administrado bajo la supervisión de un adulto y que el niño sea enseñado a usar correctamente el inhalador para asegurar que el medicamento llegue a los pulmones. Además, se debe buscar atención médica si los síntomas del asma no mejoran o empeoran después de usar el salbutamol."
+}
